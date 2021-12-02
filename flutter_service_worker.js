@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "a2b902bebdaead74e11ee0a9540b56b7",
+  "assets/AssetManifest.json": "83489d85e1f327ceade820cf7f2a39b7",
 "assets/assets/icons/check.svg": "4220c82511cc1dfb40b8bba7d25c5f55",
 "assets/assets/icons/download.svg": "628700a3031424d215a441fab2da1731",
 "assets/assets/icons/github.svg": "9226aa209923e38c0a6ddcb236e2bc68",
@@ -19,6 +19,7 @@ const RESOURCES = {
 "assets/assets/images/mypic.jpg": "dd14905d7b011965321cb00c2882cf69",
 "assets/assets/images/persExpAppSS(1).png": "f2a0e21751bd5ce769f7bfaf3dd9be62",
 "assets/assets/images/persExpAppSS(2).png": "8a79fba0f8f6179cfb6f2a9af34252dd",
+"assets/assets/images/programmer.png": "859afb7ab5d270cf40f1fe19115a945f",
 "assets/assets/images/sentimentAnalysisSS(1).png": "ba631292cff20a8cd2d944a398ae8f1a",
 "assets/assets/images/shopAppSS(1).png": "0153a735251a752ee9edeb891bc1adb7",
 "assets/assets/images/shopAppSS(2).png": "82e18cbf21052de1d7cb77f7e0d12498",
@@ -36,9 +37,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "d069cc10928f045d7e0a1d04f46a8ac4",
-"/": "d069cc10928f045d7e0a1d04f46a8ac4",
-"main.dart.js": "102b520dcda62367dba6243faa1060c0",
+"index.html": "bbcca47d3503822c1fbffb5b3a887a4a",
+"/": "bbcca47d3503822c1fbffb5b3a887a4a",
+"main.dart.js": "6d485e013bab027caad20dcab6fea594",
 "manifest.json": "1c046c6e4f5dbaeeba72caac84ac6eac",
 "version.json": "e9aa6218511c07fe94cd929021982643"
 };
